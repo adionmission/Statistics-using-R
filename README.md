@@ -3,6 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Github Repo Size](https://img.shields.io/github/repo-size/adionmission/Statistics-using-R)
 ![Github Repo License](https://img.shields.io/github/license/adionmission/Statistics-using-R)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Statistics-using-R)
 ![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
 Performed some awesome statistical methods using R. The dataset used is gapminder provided through r package.
